@@ -25,3 +25,5 @@ A helix plugin to select a project to be helix's working directory with fuzzy fi
 - Use a bar for a cursor instead of a block
 - Use an elipses when project names are too long to fit in the picker
 - Use an elipses and scroll the search query input when it's contents is too long to fit in the picker
+- Show the file picker after the project has been picked
+- Be able to bind keys to open projects from the project picker
